@@ -1,1 +1,1 @@
-# examples
+# Code examples.
